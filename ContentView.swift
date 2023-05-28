@@ -1,5 +1,5 @@
 import SwiftUI
-
+// Tic Tac toe APP
 struct ContentView: View {
     
     @State private var board = [0,0,0,0,0,0,0,0,0]
